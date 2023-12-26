@@ -15,7 +15,7 @@ body{
     height: 100vh; /* Set the height of the body to the full viewport height */
     margin: 0; /* Remove default body margin */
     background-size: cover;
-    background-image: url('./img/Library.jpeg');
+    background-image: url('./Library.jpeg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center; 
